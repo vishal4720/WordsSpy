@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80c8ecc1bc03baa429491a1c2f400f39, type: 3}
+  m_Name: Hobbies2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 60
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - T
+    - C
+    - K
+    - X
+    - O
+    - P
+    - P
+    - M
+    - G
+    - D
+  - Size: 10
+    Row:
+    - K
+    - P
+    - Y
+    - B
+    - N
+    - P
+    - W
+    - K
+    - R
+    - G
+  - Size: 10
+    Row:
+    - S
+    - K
+    - N
+    - C
+    - F
+    - B
+    - X
+    - A
+    - T
+    - E
+  - Size: 10
+    Row:
+    - E
+    - J
+    - E
+    - H
+    - L
+    - B
+    - W
+    - F
+    - C
+    - D
+  - Size: 10
+    Row:
+    - W
+    - N
+    - E
+    - T
+    - H
+    - I
+    - K
+    - I
+    - N
+    - G
+  - Size: 10
+    Row:
+    - I
+    - Q
+    - G
+    - A
+    - N
+    - W
+    - N
+    - E
+    - E
+    - C
+  - Size: 10
+    Row:
+    - N
+    - C
+    - V
+    - G
+    - F
+    - A
+    - U
+    - G
+    - J
+    - C
+  - Size: 10
+    Row:
+    - G
+    - L
+    - T
+    - S
+    - K
+    - I
+    - I
+    - N
+    - G
+    - A
+  - Size: 10
+    Row:
+    - G
+    - R
+    - I
+    - B
+    - I
+    - I
+    - F
+    - U
+    - N
+    - A
+  - Size: 10
+    Row:
+    - Q
+    - H
+    - G
+    - K
+    - G
+    - N
+    - I
+    - K
+    - A
+    - B
+  SearchWords:
+  - Found: 0
+    Word: CYCLING
+  - Found: 0
+    Word: DRAWING
+  - Found: 0
+    Word: HIKING
+  - Found: 0
+    Word: BAKING
+  - Found: 0
+    Word: SEWING
+  - Found: 0
+    Word: SKIING

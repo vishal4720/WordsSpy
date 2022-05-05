@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80c8ecc1bc03baa429491a1c2f400f39, type: 3}
+  m_Name: Animal1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 30
+  Columns: 6
+  Rows: 6
+  Board:
+  - Size: 6
+    Row:
+    - S
+    - H
+    - N
+    - G
+    - D
+    - E
+  - Size: 6
+    Row:
+    - A
+    - N
+    - J
+    - I
+    - O
+    - C
+  - Size: 6
+    Row:
+    - A
+    - T
+    - A
+    - C
+    - G
+    - P
+  - Size: 6
+    Row:
+    - B
+    - C
+    - O
+    - K
+    - Q
+    - L
+  - Size: 6
+    Row:
+    - X
+    - G
+    - P
+    - I
+    - E
+    - H
+  - Size: 6
+    Row:
+    - F
+    - I
+    - S
+    - H
+    - M
+    - Z
+  SearchWords:
+  - Found: 0
+    Word: CAT
+  - Found: 0
+    Word: DOG
+  - Found: 0
+    Word: FISH
+  - Found: 0
+    Word: SNAKE

@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80c8ecc1bc03baa429491a1c2f400f39, type: 3}
+  m_Name: Country4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 60
+  Columns: 8
+  Rows: 8
+  Board:
+  - Size: 8
+    Row:
+    - D
+    - V
+    - C
+    - H
+    - I
+    - L
+    - E
+    - D
+  - Size: 8
+    Row:
+    - A
+    - E
+    - W
+    - W
+    - Y
+    - W
+    - E
+    - E
+  - Size: 8
+    Row:
+    - L
+    - W
+    - N
+    - Y
+    - N
+    - N
+    - Y
+    - C
+  - Size: 8
+    Row:
+    - G
+    - Q
+    - G
+    - M
+    - M
+    - W
+    - G
+    - N
+  - Size: 8
+    Row:
+    - E
+    - U
+    - L
+    - A
+    - A
+    - W
+    - O
+    - A
+  - Size: 8
+    Row:
+    - R
+    - L
+    - R
+    - T
+    - Q
+    - R
+    - A
+    - R
+  - Size: 8
+    Row:
+    - I
+    - K
+    - O
+    - V
+    - M
+    - D
+    - K
+    - F
+  - Size: 8
+    Row:
+    - A
+    - Y
+    - N
+    - A
+    - M
+    - R
+    - E
+    - G
+  SearchWords:
+  - Found: 0
+    Word: FRANCE
+  - Found: 0
+    Word: GERMANY
+  - Found: 0
+    Word: DENMARK
+  - Found: 0
+    Word: CHILE
+  - Found: 0
+    Word: ALGERIA

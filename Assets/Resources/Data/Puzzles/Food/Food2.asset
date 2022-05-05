@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80c8ecc1bc03baa429491a1c2f400f39, type: 3}
+  m_Name: Food2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 90
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - U
+    - G
+    - Y
+    - X
+    - S
+    - Z
+    - T
+    - E
+    - K
+    - X
+  - Size: 10
+    Row:
+    - C
+    - F
+    - D
+    - P
+    - A
+    - J
+    - C
+    - R
+    - H
+    - Z
+  - Size: 10
+    Row:
+    - C
+    - L
+    - I
+    - W
+    - X
+    - R
+    - O
+    - J
+    - K
+    - D
+  - Size: 10
+    Row:
+    - D
+    - S
+    - G
+    - S
+    - E
+    - K
+    - O
+    - K
+    - Q
+    - A
+  - Size: 10
+    Row:
+    - C
+    - L
+    - A
+    - A
+    - H
+    - Q
+    - K
+    - V
+    - C
+    - L
+  - Size: 10
+    Row:
+    - A
+    - P
+    - D
+    - M
+    - M
+    - V
+    - I
+    - S
+    - Y
+    - A
+  - Size: 10
+    Row:
+    - N
+    - K
+    - Z
+    - C
+    - A
+    - K
+    - E
+    - U
+    - U
+    - S
+  - Size: 10
+    Row:
+    - D
+    - Q
+    - Q
+    - S
+    - I
+    - E
+    - Z
+    - S
+    - Z
+    - R
+  - Size: 10
+    Row:
+    - Y
+    - G
+    - Y
+    - X
+    - U
+    - Y
+    - H
+    - T
+    - N
+    - V
+  - Size: 10
+    Row:
+    - Q
+    - S
+    - H
+    - O
+    - R
+    - Z
+    - K
+    - L
+    - I
+    - M
+  SearchWords:
+  - Found: 0
+    Word: MILK
+  - Found: 0
+    Word: CANDY
+  - Found: 0
+    Word: COOKIE
+  - Found: 0
+    Word: CAKE
+  - Found: 0
+    Word: SALAD
+  - Found: 0
+    Word: FISH

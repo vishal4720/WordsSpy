@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80c8ecc1bc03baa429491a1c2f400f39, type: 3}
+  m_Name: Toys5
+  m_EditorClassIdentifier: 
+  timeInSeconds: 60
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - D
+    - Z
+    - K
+    - R
+    - O
+    - B
+    - O
+    - T
+    - G
+    - B
+  - Size: 10
+    Row:
+    - K
+    - R
+    - R
+    - L
+    - U
+    - M
+    - F
+    - N
+    - L
+    - G
+  - Size: 10
+    Row:
+    - P
+    - T
+    - A
+    - R
+    - B
+    - O
+    - K
+    - O
+    - B
+    - V
+  - Size: 10
+    Row:
+    - U
+    - M
+    - R
+    - O
+    - N
+    - Y
+    - C
+    - G
+    - C
+    - D
+  - Size: 10
+    Row:
+    - C
+    - U
+    - B
+    - E
+    - B
+    - K
+    - L
+    - B
+    - D
+    - E
+  - Size: 10
+    Row:
+    - L
+    - E
+    - R
+    - H
+    - S
+    - E
+    - G
+    - H
+    - O
+    - T
+  - Size: 10
+    Row:
+    - O
+    - O
+    - A
+    - V
+    - J
+    - Y
+    - T
+    - Y
+    - E
+    - A
+  - Size: 10
+    Row:
+    - W
+    - L
+    - D
+    - V
+    - I
+    - R
+    - U
+    - A
+    - X
+    - K
+  - Size: 10
+    Row:
+    - N
+    - F
+    - X
+    - M
+    - F
+    - D
+    - Z
+    - L
+    - K
+    - S
+  - Size: 10
+    Row:
+    - X
+    - K
+    - T
+    - A
+    - O
+    - B
+    - L
+    - I
+    - A
+    - S
+  SearchWords:
+  - Found: 0
+    Word: CLOWN
+  - Found: 0
+    Word: SAILBOAT
+  - Found: 0
+    Word: SKATEBOARD
+  - Found: 0
+    Word: ROBOT
+  - Found: 0
+    Word: BLOCKS
+  - Found: 0
+    Word: CUBE

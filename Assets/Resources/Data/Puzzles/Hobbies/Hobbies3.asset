@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80c8ecc1bc03baa429491a1c2f400f39, type: 3}
+  m_Name: Hobbies3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 60
+  Columns: 9
+  Rows: 9
+  Board:
+  - Size: 9
+    Row:
+    - C
+    - M
+    - E
+    - D
+    - M
+    - B
+    - P
+    - X
+    - S
+  - Size: 9
+    Row:
+    - O
+    - G
+    - Q
+    - Z
+    - A
+    - A
+    - H
+    - W
+    - P
+  - Size: 9
+    Row:
+    - O
+    - T
+    - N
+    - I
+    - C
+    - N
+    - U
+    - B
+    - O
+  - Size: 9
+    Row:
+    - K
+    - P
+    - K
+    - I
+    - A
+    - Z
+    - C
+    - T
+    - R
+  - Size: 9
+    Row:
+    - I
+    - M
+    - Y
+    - V
+    - K
+    - K
+    - V
+    - E
+    - T
+  - Size: 9
+    Row:
+    - N
+    - J
+    - U
+    - P
+    - D
+    - K
+    - E
+    - U
+    - S
+  - Size: 9
+    Row:
+    - G
+    - D
+    - I
+    - S
+    - F
+    - W
+    - E
+    - D
+    - I
+  - Size: 9
+    Row:
+    - S
+    - F
+    - M
+    - Z
+    - I
+    - C
+    - O
+    - R
+    - Z
+  - Size: 9
+    Row:
+    - I
+    - L
+    - P
+    - M
+    - P
+    - C
+    - P
+    - A
+    - T
+  SearchWords:
+  - Found: 0
+    Word: COOKING
+  - Found: 0
+    Word: DANCE
+  - Found: 0
+    Word: SPORTS
+  - Found: 0
+    Word: MUSIC
+  - Found: 0
+    Word: TREKKING

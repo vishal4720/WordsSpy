@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80c8ecc1bc03baa429491a1c2f400f39, type: 3}
+  m_Name: Toys3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 60
+  Columns: 8
+  Rows: 8
+  Board:
+  - Size: 8
+    Row:
+    - B
+    - Q
+    - B
+    - A
+    - R
+    - B
+    - I
+    - E
+  - Size: 8
+    Row:
+    - N
+    - I
+    - E
+    - X
+    - R
+    - M
+    - D
+    - D
+  - Size: 8
+    Row:
+    - W
+    - Q
+    - I
+    - E
+    - P
+    - U
+    - O
+    - C
+  - Size: 8
+    Row:
+    - B
+    - A
+    - L
+    - L
+    - C
+    - W
+    - Y
+    - U
+  - Size: 8
+    Row:
+    - A
+    - U
+    - K
+    - K
+    - R
+    - C
+    - Z
+    - L
+  - Size: 8
+    Row:
+    - T
+    - G
+    - Z
+    - Y
+    - D
+    - D
+    - E
+    - T
+  - Size: 8
+    Row:
+    - Y
+    - O
+    - B
+    - J
+    - Q
+    - S
+    - A
+    - T
+  - Size: 8
+    Row:
+    - L
+    - E
+    - L
+    - C
+    - Y
+    - C
+    - I
+    - B
+  SearchWords:
+  - Found: 0
+    Word: BARBIE
+  - Found: 0
+    Word: BAT
+  - Found: 0
+    Word: BALL
+  - Found: 0
+    Word: DUCK
+  - Found: 0
+    Word: TEDDY
+  - Found: 0
+    Word: BICYCLE

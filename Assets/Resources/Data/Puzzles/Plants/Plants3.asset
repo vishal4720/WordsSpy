@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80c8ecc1bc03baa429491a1c2f400f39, type: 3}
+  m_Name: Plants3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 60
+  Columns: 9
+  Rows: 9
+  Board:
+  - Size: 9
+    Row:
+    - R
+    - R
+    - P
+    - E
+    - X
+    - P
+    - P
+    - Q
+    - T
+  - Size: 9
+    Row:
+    - C
+    - E
+    - C
+    - O
+    - Z
+    - O
+    - J
+    - R
+    - O
+  - Size: 9
+    Row:
+    - I
+    - U
+    - W
+    - C
+    - D
+    - P
+    - L
+    - Q
+    - M
+  - Size: 9
+    Row:
+    - L
+    - V
+    - B
+    - O
+    - R
+    - P
+    - S
+    - A
+    - A
+  - Size: 9
+    Row:
+    - R
+    - F
+    - A
+    - M
+    - L
+    - Y
+    - H
+    - X
+    - T
+  - Size: 9
+    Row:
+    - A
+    - Q
+    - T
+    - F
+    - A
+    - F
+    - K
+    - X
+    - O
+  - Size: 9
+    Row:
+    - G
+    - I
+    - P
+    - P
+    - R
+    - X
+    - N
+    - W
+    - T
+  - Size: 9
+    Row:
+    - Y
+    - D
+    - K
+    - B
+    - U
+    - H
+    - C
+    - U
+    - X
+  - Size: 9
+    Row:
+    - P
+    - O
+    - T
+    - A
+    - T
+    - O
+    - T
+    - M
+    - S
+  SearchWords:
+  - Found: 0
+    Word: TOMATO
+  - Found: 0
+    Word: SUNFLOWER
+  - Found: 0
+    Word: POTATO
+  - Found: 0
+    Word: GARLIC
+  - Found: 0
+    Word: POPPY

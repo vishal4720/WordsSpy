@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80c8ecc1bc03baa429491a1c2f400f39, type: 3}
+  m_Name: Food3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 90
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - S
+    - A
+    - N
+    - D
+    - W
+    - I
+    - C
+    - H
+    - Z
+    - R
+  - Size: 10
+    Row:
+    - T
+    - F
+    - D
+    - H
+    - A
+    - C
+    - Y
+    - N
+    - F
+    - D
+  - Size: 10
+    Row:
+    - E
+    - N
+    - E
+    - Y
+    - H
+    - J
+    - O
+    - R
+    - P
+    - D
+  - Size: 10
+    Row:
+    - X
+    - I
+    - Z
+    - S
+    - E
+    - O
+    - P
+    - E
+    - E
+    - G
+  - Size: 10
+    Row:
+    - R
+    - M
+    - V
+    - Y
+    - D
+    - A
+    - Z
+    - Z
+    - I
+    - P
+  - Size: 10
+    Row:
+    - I
+    - E
+    - H
+    - L
+    - Q
+    - M
+    - Z
+    - S
+    - G
+    - W
+  - Size: 10
+    Row:
+    - C
+    - L
+    - E
+    - C
+    - R
+    - U
+    - P
+    - I
+    - G
+    - I
+  - Size: 10
+    Row:
+    - E
+    - S
+    - C
+    - H
+    - C
+    - X
+    - T
+    - R
+    - A
+    - Z
+  - Size: 10
+    Row:
+    - I
+    - W
+    - K
+    - B
+    - R
+    - E
+    - A
+    - D
+    - M
+    - H
+  - Size: 10
+    Row:
+    - B
+    - G
+    - Q
+    - C
+    - R
+    - B
+    - S
+    - C
+    - D
+    - Y
+  SearchWords:
+  - Found: 0
+    Word: SANDWICH
+  - Found: 0
+    Word: BREAD
+  - Found: 0
+    Word: RICE
+  - Found: 0
+    Word: NOODLES
+  - Found: 0
+    Word: MAGGIE
+  - Found: 0
+    Word: PIZZA

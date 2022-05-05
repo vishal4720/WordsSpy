@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80c8ecc1bc03baa429491a1c2f400f39, type: 3}
+  m_Name: Food5
+  m_EditorClassIdentifier: 
+  timeInSeconds: 60
+  Columns: 8
+  Rows: 8
+  Board:
+  - Size: 8
+    Row:
+    - Y
+    - S
+    - T
+    - O
+    - R
+    - R
+    - A
+    - C
+  - Size: 8
+    Row:
+    - O
+    - Z
+    - A
+    - S
+    - C
+    - O
+    - U
+    - Z
+  - Size: 8
+    Row:
+    - G
+    - T
+    - S
+    - P
+    - I
+    - C
+    - E
+    - S
+  - Size: 8
+    Row:
+    - U
+    - X
+    - N
+    - Z
+    - U
+    - Q
+    - R
+    - M
+  - Size: 8
+    Row:
+    - R
+    - K
+    - I
+    - M
+    - Z
+    - N
+    - E
+    - N
+  - Size: 8
+    Row:
+    - T
+    - O
+    - B
+    - K
+    - O
+    - J
+    - N
+    - U
+  - Size: 8
+    Row:
+    - I
+    - E
+    - O
+    - J
+    - H
+    - H
+    - U
+    - T
+  - Size: 8
+    Row:
+    - R
+    - B
+    - I
+    - Z
+    - Z
+    - C
+    - V
+    - S
+  SearchWords:
+  - Found: 0
+    Word: CUCUMBER
+  - Found: 0
+    Word: CARROTS
+  - Found: 0
+    Word: YOGURT
+  - Found: 0
+    Word: SPICES
+  - Found: 0
+    Word: NUTS

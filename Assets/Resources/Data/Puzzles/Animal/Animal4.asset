@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80c8ecc1bc03baa429491a1c2f400f39, type: 3}
+  m_Name: Animal4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 60
+  Columns: 8
+  Rows: 8
+  Board:
+  - Size: 8
+    Row:
+    - V
+    - F
+    - Z
+    - S
+    - Y
+    - M
+    - O
+    - G
+  - Size: 8
+    Row:
+    - O
+    - B
+    - E
+    - U
+    - E
+    - B
+    - I
+    - I
+  - Size: 8
+    Row:
+    - L
+    - W
+    - B
+    - D
+    - C
+    - R
+    - N
+    - Z
+  - Size: 8
+    Row:
+    - C
+    - Q
+    - R
+    - U
+    - A
+    - C
+    - B
+    - S
+  - Size: 8
+    Row:
+    - V
+    - R
+    - A
+    - F
+    - T
+    - A
+    - L
+    - L
+  - Size: 8
+    Row:
+    - I
+    - K
+    - F
+    - L
+    - O
+    - W
+    - Q
+    - O
+  - Size: 8
+    Row:
+    - T
+    - E
+    - A
+    - X
+    - C
+    - T
+    - C
+    - T
+  - Size: 8
+    Row:
+    - T
+    - I
+    - G
+    - E
+    - R
+    - D
+    - C
+    - H
+  SearchWords:
+  - Found: 0
+    Word: ZEBRA
+  - Found: 0
+    Word: GIRAFFE
+  - Found: 0
+    Word: WOLF
+  - Found: 0
+    Word: TIGER
+  - Found: 0
+    Word: SLOTH

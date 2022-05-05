@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80c8ecc1bc03baa429491a1c2f400f39, type: 3}
+  m_Name: Toys4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 60
+  Columns: 8
+  Rows: 8
+  Board:
+  - Size: 8
+    Row:
+    - S
+    - O
+    - Z
+    - T
+    - A
+    - O
+    - B
+    - P
+  - Size: 8
+    Row:
+    - G
+    - N
+    - T
+    - J
+    - D
+    - G
+    - I
+    - Z
+  - Size: 8
+    Row:
+    - D
+    - B
+    - O
+    - S
+    - G
+    - N
+    - F
+    - H
+  - Size: 8
+    Row:
+    - R
+    - D
+    - K
+    - O
+    - W
+    - F
+    - Y
+    - O
+  - Size: 8
+    Row:
+    - U
+    - S
+    - E
+    - H
+    - L
+    - E
+    - F
+    - R
+  - Size: 8
+    Row:
+    - M
+    - D
+    - E
+    - L
+    - I
+    - L
+    - S
+    - S
+  - Size: 8
+    Row:
+    - A
+    - E
+    - V
+    - Y
+    - N
+    - Y
+    - A
+    - E
+  - Size: 8
+    Row:
+    - L
+    - U
+    - D
+    - O
+    - U
+    - P
+    - Y
+    - B
+  SearchWords:
+  - Found: 0
+    Word: LUDO
+  - Found: 0
+    Word: HORSE
+  - Found: 0
+    Word: DRUM
+  - Found: 0
+    Word: BOAT
+  - Found: 0
+    Word: PINWHEEL
+  - Found: 0
+    Word: BALLOONS

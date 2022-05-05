@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80c8ecc1bc03baa429491a1c2f400f39, type: 3}
+  m_Name: Country5
+  m_EditorClassIdentifier: 
+  timeInSeconds: 60
+  Columns: 11
+  Rows: 11
+  Board:
+  - Size: 11
+    Row:
+    - A
+    - R
+    - G
+    - E
+    - N
+    - T
+    - I
+    - N
+    - A
+    - V
+    - C
+  - Size: 11
+    Row:
+    - B
+    - F
+    - X
+    - K
+    - J
+    - N
+    - Q
+    - G
+    - M
+    - L
+    - A
+  - Size: 11
+    Row:
+    - R
+    - F
+    - G
+    - F
+    - Q
+    - N
+    - I
+    - H
+    - U
+    - J
+    - M
+  - Size: 11
+    Row:
+    - W
+    - Z
+    - N
+    - H
+    - D
+    - T
+    - H
+    - L
+    - I
+    - D
+    - B
+  - Size: 11
+    Row:
+    - F
+    - Y
+    - X
+    - F
+    - A
+    - C
+    - X
+    - N
+    - G
+    - C
+    - O
+  - Size: 11
+    Row:
+    - D
+    - I
+    - O
+    - O
+    - C
+    - N
+    - Z
+    - Z
+    - L
+    - N
+    - D
+  - Size: 11
+    Row:
+    - Y
+    - T
+    - N
+    - Z
+    - S
+    - M
+    - I
+    - T
+    - E
+    - X
+    - I
+  - Size: 11
+    Row:
+    - I
+    - W
+    - Q
+    - L
+    - R
+    - N
+    - W
+    - S
+    - B
+    - B
+    - A
+  - Size: 11
+    Row:
+    - G
+    - U
+    - K
+    - F
+    - A
+    - I
+    - Z
+    - K
+    - T
+    - M
+    - O
+  - Size: 11
+    Row:
+    - B
+    - H
+    - X
+    - J
+    - X
+    - N
+    - B
+    - A
+    - Z
+    - A
+    - Q
+  - Size: 11
+    Row:
+    - E
+    - S
+    - D
+    - Y
+    - B
+    - A
+    - D
+    - L
+    - A
+    - B
+    - N
+  SearchWords:
+  - Found: 0
+    Word: FINLAND
+  - Found: 0
+    Word: CAMBODIA
+  - Found: 0
+    Word: AFGHANISTAN
+  - Found: 0
+    Word: ARGENTINA
+  - Found: 0
+    Word: BELGIUM

@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80c8ecc1bc03baa429491a1c2f400f39, type: 3}
+  m_Name: Animal2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 60
+  Columns: 9
+  Rows: 9
+  Board:
+  - Size: 9
+    Row:
+    - D
+    - M
+    - Q
+    - P
+    - R
+    - E
+    - G
+    - I
+    - T
+  - Size: 9
+    Row:
+    - U
+    - U
+    - N
+    - Y
+    - W
+    - T
+    - J
+    - N
+    - A
+  - Size: 9
+    Row:
+    - C
+    - C
+    - C
+    - H
+    - I
+    - C
+    - K
+    - J
+    - D
+  - Size: 9
+    Row:
+    - K
+    - I
+    - Y
+    - K
+    - R
+    - S
+    - Z
+    - L
+    - P
+  - Size: 9
+    Row:
+    - L
+    - C
+    - H
+    - I
+    - L
+    - J
+    - S
+    - C
+    - O
+  - Size: 9
+    Row:
+    - I
+    - T
+    - G
+    - T
+    - J
+    - I
+    - Q
+    - L
+    - L
+  - Size: 9
+    Row:
+    - N
+    - G
+    - D
+    - T
+    - X
+    - M
+    - N
+    - Z
+    - E
+  - Size: 9
+    Row:
+    - G
+    - E
+    - F
+    - E
+    - N
+    - R
+    - V
+    - G
+    - M
+  - Size: 9
+    Row:
+    - Q
+    - C
+    - P
+    - N
+    - S
+    - P
+    - S
+    - H
+    - T
+  SearchWords:
+  - Found: 0
+    Word: CHICK
+  - Found: 0
+    Word: TADPOLE
+  - Found: 0
+    Word: KITTEN
+  - Found: 0
+    Word: TIGER
+  - Found: 0
+    Word: DUCKLING

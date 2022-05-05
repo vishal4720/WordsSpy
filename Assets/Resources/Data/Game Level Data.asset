@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6714eb78dbe995409fdb42b8cc6d538, type: 3}
+  m_Name: Game Level Data
+  m_EditorClassIdentifier: 
+  data:
+  - catrgoryName: Food
+    boardData:
+    - {fileID: 11400000, guid: 886508ce4e06d2047a082649d761780b, type: 2}
+    - {fileID: 11400000, guid: 16bbbdf19b0fa084ebbc7321e243369d, type: 2}
+    - {fileID: 11400000, guid: b5b88a30ad6c4d64ab17a5fa780812db, type: 2}
+    - {fileID: 11400000, guid: f4909551cdcd16144b61d1ba951d7495, type: 2}
+    - {fileID: 11400000, guid: 631e713391e667e44944455d496d8588, type: 2}
+  - catrgoryName: Animal
+    boardData:
+    - {fileID: 11400000, guid: eb50bf871a067da4e9c8050c82d47cb2, type: 2}
+    - {fileID: 11400000, guid: 6e9970e51633c0045abcbc66297890e7, type: 2}
+    - {fileID: 11400000, guid: fe1a969d8a9136a46b19ffe565f47d7e, type: 2}
+    - {fileID: 11400000, guid: aba0b2a3f995e8d48bd6392e1c29f9d0, type: 2}
+    - {fileID: 11400000, guid: bc25f3f204338e348bc9c2e48fd2e81d, type: 2}
+  - catrgoryName: Sport
+    boardData:
+    - {fileID: 11400000, guid: 44bb8f0f2e14d2a438fcc6517b56752a, type: 2}
+    - {fileID: 11400000, guid: 34e6aaab0e872fb4b918b15abec94315, type: 2}
+    - {fileID: 11400000, guid: a56d64f5d2e8b59409f4efe75e95ef35, type: 2}
+    - {fileID: 11400000, guid: 7a1e9d9256c7e124c8840dbda73f242b, type: 2}
+    - {fileID: 11400000, guid: 94644a7d687cc7d458e3b21a8bd2cc67, type: 2}
+  - catrgoryName: Hobbies
+    boardData:
+    - {fileID: 11400000, guid: 48147f0dc26ecca469a81174eeb18e51, type: 2}
+    - {fileID: 11400000, guid: 092aaad38005ea94c967b07df623fc57, type: 2}
+    - {fileID: 11400000, guid: 5f34089d7dac4b04d8f698861655bd81, type: 2}
+    - {fileID: 11400000, guid: 6ea1ee56b3764ed47b266e4e66bd8a26, type: 2}
+    - {fileID: 11400000, guid: 2edb231f1a74aba42833937275030ba9, type: 2}
+  - catrgoryName: Plants
+    boardData:
+    - {fileID: 11400000, guid: 379ccf8eeb760764694109df787dab70, type: 2}
+    - {fileID: 11400000, guid: 2c72d56c528b0ee4e81609b77aabd8a0, type: 2}
+    - {fileID: 11400000, guid: f920d794880d41d4a97ba728134730e8, type: 2}
+    - {fileID: 11400000, guid: ff7b6e6076cc0104e861e22f2dab1126, type: 2}
+    - {fileID: 11400000, guid: a674c64900849d7489b7267494004a6d, type: 2}
+  - catrgoryName: Countries
+    boardData:
+    - {fileID: 11400000, guid: e7763152223f1a74c9e3d8487ba2d3d0, type: 2}
+    - {fileID: 11400000, guid: e8ae9816daca4314f87a9d2e23c5b58b, type: 2}
+    - {fileID: 11400000, guid: 6d8d55030a5482840b05241f65d14816, type: 2}
+    - {fileID: 11400000, guid: ecf4c769dda603e4ca3a7ba52fdb68db, type: 2}
+    - {fileID: 11400000, guid: c48eaf57865917542b7c13c03ccf8ef7, type: 2}
+  - catrgoryName: Toys
+    boardData:
+    - {fileID: 11400000, guid: f53ea33325364b2419fa804b9794bc82, type: 2}
+    - {fileID: 11400000, guid: 0b17b4dd0f7463748b888f6c1276937f, type: 2}
+    - {fileID: 11400000, guid: 4bb97eb12c9d3eb428c82362a536c8f2, type: 2}
+    - {fileID: 11400000, guid: 9f20960e3ce8c1d44aa5833d328f4893, type: 2}
+    - {fileID: 11400000, guid: f8c71619b9cbbcf4a9052928ba4bc5a6, type: 2}

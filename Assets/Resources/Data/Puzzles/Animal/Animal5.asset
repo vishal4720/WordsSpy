@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80c8ecc1bc03baa429491a1c2f400f39, type: 3}
+  m_Name: Animal5
+  m_EditorClassIdentifier: 
+  timeInSeconds: 60
+  Columns: 8
+  Rows: 8
+  Board:
+  - Size: 8
+    Row:
+    - R
+    - A
+    - B
+    - B
+    - I
+    - T
+    - D
+    - M
+  - Size: 8
+    Row:
+    - C
+    - E
+    - P
+    - Y
+    - A
+    - J
+    - O
+    - M
+  - Size: 8
+    Row:
+    - Y
+    - A
+    - U
+    - J
+    - O
+    - N
+    - G
+    - X
+  - Size: 8
+    Row:
+    - M
+    - W
+    - M
+    - R
+    - K
+    - B
+    - X
+    - D
+  - Size: 8
+    Row:
+    - H
+    - R
+    - A
+    - E
+    - B
+    - R
+    - B
+    - E
+  - Size: 8
+    Row:
+    - F
+    - Y
+    - Y
+    - O
+    - L
+    - Z
+    - U
+    - E
+  - Size: 8
+    Row:
+    - U
+    - V
+    - I
+    - W
+    - I
+    - J
+    - X
+    - R
+  - Size: 8
+    Row:
+    - I
+    - F
+    - A
+    - E
+    - S
+    - R
+    - O
+    - H
+  SearchWords:
+  - Found: 0
+    Word: BEAR
+  - Found: 0
+    Word: CAMEL
+  - Found: 0
+    Word: MONKEY
+  - Found: 0
+    Word: RABBIT
+  - Found: 0
+    Word: HORSE
+  - Found: 0
+    Word: DEER

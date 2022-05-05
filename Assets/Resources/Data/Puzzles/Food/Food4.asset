@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80c8ecc1bc03baa429491a1c2f400f39, type: 3}
+  m_Name: Food4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 90
+  Columns: 8
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - C
+    - H
+    - P
+    - A
+    - F
+    - M
+    - R
+    - C
+    - G
+    - S
+  - Size: 10
+    Row:
+    - P
+    - O
+    - V
+    - U
+    - D
+    - R
+    - Q
+    - L
+    - A
+    - E
+  - Size: 10
+    Row:
+    - E
+    - X
+    - F
+    - F
+    - Z
+    - X
+    - I
+    - R
+    - W
+    - A
+  - Size: 10
+    Row:
+    - R
+    - C
+    - Z
+    - F
+    - B
+    - E
+    - O
+    - E
+    - F
+    - F
+  - Size: 10
+    Row:
+    - D
+    - P
+    - I
+    - K
+    - E
+    - B
+    - A
+    - B
+    - S
+    - O
+  - Size: 10
+    Row:
+    - M
+    - P
+    - K
+    - W
+    - C
+    - E
+    - W
+    - N
+    - N
+    - O
+  - Size: 10
+    Row:
+    - A
+    - S
+    - T
+    - U
+    - N
+    - A
+    - E
+    - P
+    - B
+    - D
+  - Size: 10
+    Row:
+    - F
+    - V
+    - G
+    - V
+    - G
+    - K
+    - W
+    - U
+    - B
+    - S
+  SearchWords:
+  - Found: 0
+    Word: KEBAB
+  - Found: 0
+    Word: SEAFOOD
+  - Found: 0
+    Word: COFFEE
+  - Found: 0
+    Word: PEANUTS
+  - Found: 0
+    Word: FRIES

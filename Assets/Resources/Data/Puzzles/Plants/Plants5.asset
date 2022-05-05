@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80c8ecc1bc03baa429491a1c2f400f39, type: 3}
+  m_Name: Plants5
+  m_EditorClassIdentifier: 
+  timeInSeconds: 60
+  Columns: 8
+  Rows: 8
+  Board:
+  - Size: 8
+    Row:
+    - T
+    - A
+    - S
+    - U
+    - M
+    - Y
+    - B
+    - C
+  - Size: 8
+    Row:
+    - U
+    - F
+    - U
+    - S
+    - O
+    - D
+    - G
+    - Y
+  - Size: 8
+    Row:
+    - L
+    - T
+    - S
+    - J
+    - T
+    - U
+    - L
+    - C
+  - Size: 8
+    Row:
+    - I
+    - K
+    - X
+    - U
+    - N
+    - A
+    - G
+    - U
+  - Size: 8
+    Row:
+    - P
+    - Y
+    - Q
+    - P
+    - T
+    - E
+    - Q
+    - S
+  - Size: 8
+    Row:
+    - E
+    - K
+    - I
+    - P
+    - S
+    - C
+    - B
+    - J
+  - Size: 8
+    Row:
+    - A
+    - V
+    - R
+    - N
+    - R
+    - C
+    - A
+    - S
+  - Size: 8
+    Row:
+    - O
+    - R
+    - C
+    - H
+    - I
+    - D
+    - F
+    - C
+  SearchWords:
+  - Found: 0
+    Word: MUSA
+  - Found: 0
+    Word: CYCUS
+  - Found: 0
+    Word: CACTUS
+  - Found: 0
+    Word: SPIKE
+  - Found: 0
+    Word: ORCHID
+  - Found: 0
+    Word: TULIP
